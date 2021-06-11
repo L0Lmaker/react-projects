@@ -1,3 +1,5 @@
+#### Starter Files taken from [here](https://github.com/john-smilga/react-projects)
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
